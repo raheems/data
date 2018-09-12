@@ -3,7 +3,7 @@
 
 library(tidyverse)
 
-fpath = "/Users/enayetraheem/Dropbox/MyBooks/AppliedStatDataScience/"
+fpath = "/Users/enayetraheem/Documents/Github/data/"
 fname = "data-resource_2018_08_06_Detail Information of Teacher_DU_Working.xlsx"
 
 f = paste(fpath, fname, sep = "")
